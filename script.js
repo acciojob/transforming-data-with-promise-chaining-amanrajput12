@@ -43,6 +43,6 @@ btn.addEventListener("click",()=>{
 			},1000)
 		})
 	}).then((result5)=>{
-		output.innerText=`Result: ${result5}`;
+		output.innerText=`Final Result: ${result5}`;
 	})
 })
